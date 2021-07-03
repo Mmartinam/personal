@@ -1,0 +1,128 @@
+body{
+    font-family: Arial;
+    background-color: #1c1c1c;
+}
+#menu{
+    background-color: #111111;
+    height: 70px;
+    margin-top: -16px;
+    margin-left: -8px;
+    width: 1536px;
+}
+#menu li{
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 14px;
+}
+#menu ul li a:hover{
+    color: rgba(2,203,110,0.9);
+}
+#menu ul{
+    margin-left: 920px;
+    margin-top: -42px;
+
+}
+#menu ul li a{
+    text-decoration: none;
+    color: gainsboro;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+#name {
+    display: inline-block;
+    margin-left: 86px;
+    margin-top: 23px;
+}
+#name a{
+    text-decoration: none;
+    font-weight: bold;
+    color: gray;
+    font-size: 30px;
+}
+#name a:hover{
+    color: rgba(2,203,110,0.9);
+}
+#image{
+
+    display: inline-block;
+    float: right;
+    margin-top: 80px;
+    margin-right: 220px;
+
+}
+#show{
+    display: inline-block;
+    margin-left: 300px;
+    margin-top: 150px;
+    font-size: 30px;
+    color: gainsboro;
+}
+#show .m{
+    color: rgba(2,203,110,0.9);
+}
+#show .finki{
+    text-decoration: none;
+    font-size: small;
+    color: gray;
+}
+#show .finki:hover{
+    color: rgba(2,203,110,0.9);
+}
+#about{
+    color: gainsboro;
+    width: 550px;
+    text-align: center;
+    margin-top: -174px;
+    margin-left: 500px;
+}
+.back{
+    display: inline-block;
+    color: rgba(17,17,17,0.84);
+    font-size: 250px;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-left:333px;
+    letter-spacing: -10px;
+    font-family: fantasy;
+}
+.edu{
+    display: inline-block;
+    color: rgba(17,17,17,0.84);
+    font-size: 250px;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-left:288px;
+    letter-spacing: -10px;
+    font-family: fantasy;
+}
+#year{
+    color: gainsboro;
+    width: 550px;
+    text-align: center;
+    margin-top: -168px;
+    margin-left: 500px;
+}
+.contact{
+    display: inline-block;
+    color: rgba(17,17,17,0.84);
+    font-size: 250px;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-left:355px;
+    letter-spacing: -10px;
+    font-family: fantasy;
+}
+#martina{
+    color: gainsboro;
+    width: 550px;
+    text-align: center;
+    margin-top: -145px;
+    margin-left: 500px;
+}
+#martina a{
+    text-decoration: none;
+    color: gainsboro;
+}
+#martina a:hover{
+    color: rgba(2,203,110,0.9);
+}
